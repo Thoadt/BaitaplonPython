@@ -1,2 +1,2 @@
-# BaitaplonPython
-Game connect four
+# Game connect four
+
